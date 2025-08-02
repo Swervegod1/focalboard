@@ -4,3 +4,5 @@ sudo mv focalboard /opt
 
 sudo apt update
 sudo apt install 
+
+curl -o- https://deb.packages.mattermost.com/repo-setup.sh | sudo bash -s mattermost
